@@ -1,0 +1,213 @@
+{
+  "animals": [
+    {
+      "id": "1",
+      "name": "Alice",
+      "age": "2 YRS",
+      "species": "Cat",
+      "gender": "Female",
+      "short_description": "Playful and curious",
+      "weight": "3.2 kg",
+      "description": "Cuteness overload! If you have tons of time to spend playing with Alice with plenty of curiosity, and if you want to shower one with love and affection, adopt Alice. PAWS needs to find her a good home, a fur-ever home, not a home that loves her while she’s little. When she’s a full-grown cat and more mature, Alice will still be by your side… through thick and thin.",
+      "image_url":
+          "https://paws.org.ph/wp-content/uploads/2024/05/Alice-2-1-e1719042275479.jpeg",
+      "adoption_fee": "500",
+      "shelterId": "s1"
+    },
+    {
+      "id": "2",
+      "name": "Mita",
+      "age": "5 YRS",
+      "species": "Dog",
+      "gender": "Female",
+      "short_description": "Calm and loving",
+      "weight": "8.5 kg",
+      "description":
+          "PAWS rescued Mita at Ermita Center after she had wounds in some parts of her body.  A small dog who is quiet and adorably well-behaved, Mita is an Aspin that shows discreet affection and is perfect for someone who wants a well-rounded, well-behaved companion.",
+      "image_url":
+          "https://paws.org.ph/wp-content/uploads/2023/08/1691207856784-scaled-e1692925591960.jpg",
+      "adoption_fee": "500",
+      "shelterId": "s1"
+    },
+    {
+      "id": "3",
+      "name": "Mateo",
+      "age": "7 YRS",
+      "species": "Dog",
+      "gender": "Male",
+      "short_description": "Gentle and trainable",
+      "weight": "12.0 kg",
+      "description":
+          "Mateo is a sweet and gentle soul. He can be quiet and timid, but he will never say no to walks. Best yet, he’s an aspin that’s trainable with a little bit of help from treats! We understand that some dog-parents can’t keep up with a high-energy dog, so if you’re feeling seen and are looking for a kind companion to share your home with, Mateo might just be the perfect match for you!",
+      "image_url":
+          "https://paws.org.ph/wp-content/uploads/2024/12/Adopt-Mateo.jpg",
+      "adoption_fee": "1000",
+      "shelterId": "s2"
+    },
+    {
+      "id": "4",
+      "name": "Tiki",
+      "age": "3 YRS",
+      "species": "Dog",
+      "gender": "Male",
+      "short_description": "Friendly and forgiving",
+      "weight": "10.4 kg",
+      "description":
+          "Thanks to a concerned citizen’s report, Tiki was not killed for “pulutan” (food usually paired with alcoholic drink). Barangay officers foiled plans of construction workers who were about to slaughter him and criminal charges were filed by PAWS. Tiki remained a sweet, loving dog all throughout his ordeal -where he was only given scraps for food and drank rain water from a puddle near his chained area. When he was rescued, he wagged his tail non-stop and was very excited to get into the vehicle that would take him to the PAWS shelter. Tiki holds no grudges and wants to be friends with everyone he meets for the first time. he epitomizes the saying. ” To err is human, to forgive, canine” and reminds us why we should all work together to end the cruel and illegal dog meat trade in our country. ",
+      "image_url":
+          "https://paws.org.ph/wp-content/uploads/2023/12/Adopt-Tiki.jpg",
+      "adoption_fee": "500",
+      "shelterId": "s2"
+    },
+    {
+      "id": "5",
+      "name": "Pumi",
+      "age": "3 YRS",
+      "species": "Dog",
+      "gender": "Female",
+      "short_description": "Shy but loving",
+      "weight": "9.0 kg",
+      "description":
+          "Pumi was rescued by a celebrity supporter of PAWS who spotted the poor dog inside a barangay pound cage while she was shooting a television show. Pumi is shy and gentle but she is easily startled by loud noises. We are looking for someone who understands that overcoming traumatic life experiences is tough and may take time; someone who can assure Pumi that she will always be safe and that she will never be abandoned.",
+      "image_url":
+          "https://paws.org.ph/wp-content/uploads/2023/12/Adopt-Pumi.jpg",
+      "adoption_fee": "500",
+      "shelterId": "s3"
+    },
+    {
+      "id": "6",
+      "name": "Magdalena",
+      "age": "2 YRS",
+      "species": "Dog",
+      "gender": "Female",
+      "short_description": "Friendly and well-behaved",
+      "weight": "8.7 kg",
+      "description":
+          "Magdalena or sometimes we called her “Magda” was rescued from Gilmore at Carmel of St. Therese of the Child Jesus along with her 4 babies namely: Josiah, Jonas and Ezra, Ezekiel. She’s small aspin with Bob tail. Magda is friendly and well-behaved dog that fits to your house.",
+      "image_url":
+          "https://paws.org.ph/wp-content/uploads/2023/08/DSC_0590-scaled-e1692924690740.jpg",
+      "adoption_fee": "500",
+      "shelterId": "s3"
+    },
+    {
+      "id": "7",
+      "name": "IG",
+      "age": "2 YRS",
+      "species": "Cat",
+      "gender": "Male",
+      "short_description": "Photogenic and playful",
+      "weight": "3.5 kg",
+      "description":
+          "IG is photogenic, We named him after a social media platform. IG was rescued by the caretakers at our shelter after he followed them home one day and he also has eye misalignment that makes him more cute.  it’s your turn to be fortunate to have IG in your family. We’ll be ready with the cat toys; you be ready to play. IG is here, waiting.",
+      "image_url":
+          "https://paws.org.ph/wp-content/uploads/2023/08/PAWS-9944-e1693643863185.jpg",
+      "adoption_fee": "500",
+      "shelterId": "s3"
+    },
+    {
+      "id": "8",
+      "name": "Tiktok",
+      "age": "2 YRS",
+      "species": "Cat",
+      "gender": "Male",
+      "short_description": "Loyal and loving",
+      "weight": "3.8 kg",
+       "description":
+          "Tiktok was rescued in Brgy Pansol in Quezon City.  We know what you’re thinking. Could this cat be trending viral in some reel or video somewhere? Maybe not. But this here cat with the popular name has a heart to make up for his lack of fame.  Blinded in one eye after incurring an injury as a kitten. He will use his cat sense even more if you are feeling ill or depressed.",
+      "image_url":
+          "https://paws.org.ph/wp-content/uploads/2023/08/PAWS-9841-e1692255960472.jpg",
+      "adoption_fee": "500",
+      "shelterId": "s4"
+    },
+    {
+      "id": "9",
+      "name": "Tender",
+      "age": "7 YRS",
+      "species": "Cat",
+      "gender": "Male",
+      "short_description": "Independent yet affectionate",
+      "weight": "4.1 kg",
+      "description":
+          "Tender was rescued with his littermate Cole when they were kittens. Tender is independent but can also be very clingy and affectionate – just in perfectly right doses. Give Tender a place to perch and he’ll leave you alone while you’re busy working. Invite him on your lap and he will happily purr while getting his ear scratched.",
+      "image_url":
+          "https://paws.org.ph/wp-content/uploads/2023/07/PAWS-0973-e1691740424473.jpg",
+      "adoption_fee": "500",
+      "shelterId": "s4"
+    },
+    {
+      "id": "10",
+      "name": "Banoi",
+      "age": "5 YRS",
+      "species": "Dog",
+      "gender": "Female",
+      "short_description": "Happy and friendly",
+      "weight": "11.5 kg",
+      "description":
+          "When Banoi shows you her happy face, you will surely be won over with delight. A 5-yr-old Aspin rescued in Marikina City during typhoon Ulysees, Banoi has been through difficulties in her life, but it does not change her friendly temperament. She loves pets and goes crazy for treats. She’s a happy, friendly dog who is also quite chill and not overly needy.",
+      "image_url":
+          "https://paws.org.ph/wp-content/uploads/2023/05/Adopt-Banoi-1.jpg",
+      "adoption_fee": "500",
+      "shelterId": "s5"
+    },
+    {
+      "id": "11",
+      "name": "Walter White",
+      "age": "2 YRS",
+      "species": "Dog",
+      "gender": "Male",
+      "short_description": "Shy but sweet",
+      "weight": "9.6 kg",
+      "description":
+          "Walter White was not yet born when he was rescued. That’s right! His momma, Menchie, was rescued inside UP Campus when she was pregnant. Because of Walter White’s shy nature, he’s the only one of his siblings still at the shelter. We hope that someone out there is willing to be his patient and dedicated best friend to help him become the friendly and playful doggo that he’s meant to be.",
+      "image_url":
+          "https://paws.org.ph/wp-content/uploads/2023/03/Adopt-Walter-White.jpg",
+      "adoption_fee": "500",
+      "shelterId": "s5"
+    },
+    {
+      "id": "12",
+      "name": "Whitney",
+      "age": "6 YRS",
+      "species": "Dog",
+      "gender": "Male",
+      "short_description": "Resilient and strong",
+      "weight": "13.2 kg",
+      "description":
+          "Whitey may have looked like a healthy and happy stray dog, but in truth, he was in great pain. Someone attempted to castrate this poor boy by tying a rubber band tightly around his testicles. Thankfully, he received treatment at the shelter and is now fully recovered. Whitey is learning to trust humans again, and now he’s looking for a strong pack leader to give him a home.",
+      "image_url":
+          "https://paws.org.ph/wp-content/uploads/2023/03/Adopt-Whitey.jpg",
+      "adoption_fee": "500",
+      "shelterId": "s1"
+    },
+    {
+      "id": "13",
+      "name": "Post",
+      "age": "1 YR",
+      "species": "Dog",
+      "gender": "Male",
+      "short_description": "Smart and trainable",
+      "weight": "10.0 kg",
+      "description":
+          "Just like a Facebook post by a pal, Post is easy to heart or like. He is a smart, trainable 1-yr-old Aspin who is still a bit skittish in unfamiliar surroundings. But just give him some time and love, and Post will show you his true, affectionate self.",
+      "image_url":
+          "https://paws.org.ph/wp-content/uploads/2023/05/Adopt-Post.jpg",
+      "adoption_fee": "500",
+      "shelterId": "s2"
+    },
+    {
+      "id": "14",
+      "name": "Blessing",
+      "age": "8 YRS",
+      "species": "Dog",
+      "gender": "Male",
+      "short_description": "Energetic and loyal",
+      "weight": "14.0 kg",
+      "description":
+          "It was such a blessing to be able rescue this beautiful aspin, Blessing, from a hit-and-run incident in Anonas, and to restore him back to health. Blessing is a highly energetic dog that needs time to bond with humans, being a 8-yr-old rescue that has been through rough times.",
+      "image_url":
+          "https://paws.org.ph/wp-content/uploads/2023/05/Adopt-Blessing.jpg",
+      "adoption_fee": "500",
+      "shelterId": "s3"
+    }
+  ]
+}
