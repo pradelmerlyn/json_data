@@ -1,0 +1,45 @@
+{
+  "animal_shelters": [
+    {
+      "id": "s1",
+      "name": "Philippine Animal Welfare Society",
+      "short_name": "PAWS",
+      "address": "Quezon City, Philippines",
+      "contact": "+63 2 475 1688",
+      "website": "https://paws.org.ph/"
+    },
+    {
+      "id": "s2",
+      "name":
+          "CARA Welfare Philippines (Compassion and Responsibility for Animals)",
+      "short_name": "CARA WELFARE PH",
+      "address": "Mandaluyong City, Philippines",
+      "contact": "+63 2 532 3340",
+      "website": "http://www.caraphil.org/"
+    },
+    {
+      "id": "s3",
+      "name": "Animal Kingdom Foundation, Inc.",
+      "short_name": "AKF",
+      "address": "Capas, Tarlac, Philippines",
+      "contact": "+63 917 835 2405",
+      "website": "https://www.animalkingdomfoundation.org/"
+    },
+    {
+      "id": "s4",
+      "name": "Philippine Animal Rescue Team",
+      "short_name": "PART",
+      "address": "San Jose del Monte City, Bulacan, Philippines",
+      "contact": "+63 917 535 4955",
+      "website": "https://www.philanimalrescue.org/"
+    },
+    {
+      "id": "s5",
+      "name": "Hope for Strays",
+      "short_name": "HFS",
+      "address": "Consolacion, Cebu, Philippines",
+      "contact": "+63 917 321 4503",
+      "website": "https://www.facebook.com/HopeForStraysPH/"
+    }
+  ]
+}
